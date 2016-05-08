@@ -1,0 +1,14 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "FShangarExtender",
+    "$kref"        : "#/ckan/github/Alewx/FShangarExtender",
+    "name"         : "Hangar Extender",
+    "author"       : [ "Snjo", "Alewx" ],
+    "abstract"     : "This plugin extends the usable area when building in the SPH or VAB, so you can build outside or above the building. Useful for building large aircraft carriers or tall rockets.",
+
+    "license"      : "CC-BY-4.0",
+    "ksp_version"  : "1.1.2",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/59703-10-hangar-extender-v33/&page=1"
+    }
+}
